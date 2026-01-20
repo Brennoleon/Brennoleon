@@ -1,10 +1,5 @@
 <h1 align="center">Brenno Leon</h1>
 <h3 align="center">Frontend Developer</h3>
-
-<p align="center">
-  <img src="https://github.com/Brennoleon/Brennoleon/blob/main/Brenno%202.png?raw=true" width="200" style="border-radius:50%;" />
-</p>
-
 <br/>
 
 <table align="center">
