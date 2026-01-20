@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Brenno Leon</h1>
+<h3 align="center">Frontend Developer</h3>
 
-<!--
-**Brennoleon/Brennoleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/Brennoleon/Brennoleon/blob/main/Brenno%20Leon.png?raw=true" width="200" style="border-radius: 50%;" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Desenvolvedor Frontend focado em interfaces modernas, performáticas e acessíveis.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,git,js" />
+</p>
+
