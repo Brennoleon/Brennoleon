@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://github.com/Brennoleon/Brennoleon/blob/main/Brenno%20Leon.png?raw=true" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/Brennoleon/Brennoleon/blob/main/Brenno%202.png?raw=true" width="200" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
