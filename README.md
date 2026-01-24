@@ -1,27 +1,72 @@
-<h1 align="center">Brenno Leon</h1>
-<h3 align="center">Frontend Developer</h3>
+# 💻 Brenno Leon
+
+**`Desenvolvedor de Aplicações em Javascript`**
+
+Oi Tudo bem? Me chamo Brenno sou desenvolvedor de aplicativos feitos com javascript, tenho 15 anos sou da área de front. 
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
 <br/>
 
-<table align="center">
-  <tr>
-    <td style="border:1px solid #30363d;border-radius:12px;padding:16px;max-width:600px;">
-      <p align="center">
-        Desenvolvedor Frontend focado em interfaces modernas, performáticas e acessíveis.
-      </p>
-    </td>
-  </tr>
-</table>
+### 📊 Estatísticas
 
-<br/>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brennoleon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-<h2 align="center">Linguagens e Tecnologias</h2>
-
-<table align="center">
-  <tr>
-    <td style="border:1px solid #30363d;border-radius:12px;padding:16px;">
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,git,js" />
-      </p>
-    </td>
-  </tr>
-</table>
+</p>
