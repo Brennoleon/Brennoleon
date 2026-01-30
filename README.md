@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Aplicações em Javascript`**
 
-Oi Tudo bem? Me chamo Brenno sou desenvolvedor de aplicativos feitos com javascript, tenho 15 anos sou da área de front. 
+Oi Tudo bem? Me chamo Brenno sou desenvolvedor de aplicativos feitos com javascript, tenho 15 anos sou da área de front, sou backend (PHP, NODE.JS). 
 
 ---
 
